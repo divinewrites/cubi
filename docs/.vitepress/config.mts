@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Cubi",
   description: "A C-style based language",
   titleTemplate: "Cubi Docs",
-  base: "/repo/",
+  base: "/cubi/",
   lang: "en-us",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
